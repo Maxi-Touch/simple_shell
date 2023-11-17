@@ -1,8 +1,8 @@
 #include "shell.h"
 
 /**
-* _myhistory - This is for displaying the history list, 
-* @info: the Structure that contains the potential arguments. 
+* _myhistory - This is for displaying the history list,
+* @info: the Structure that contains the potential arguments.
 *  Return: Always 0
 */
 int _myhistory(info_t *info)
@@ -80,7 +80,7 @@ int print_alias(list_t *node)
 
 /**
  * _myalias - SImilar to the alias
- * @info: The structure that contains the potential arguments. 
+ * @info: The structure that contains the potential arguments.
  *  Return: Return 0 Always
  */
 int _myalias(info_t *info)

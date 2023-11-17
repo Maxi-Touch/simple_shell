@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * interactive - if shell is interactive, then it will return true 
+ * interactive - if shell is interactive, then it will return true
  * @info: structural address documentation
  *
  * Return: Return the value of 1 if its on interactive mode, Return 0 otherwise
